@@ -1,6 +1,6 @@
 # Collection - AI
 
-这是 2025 - 2026 考核的仓库分支。
+这是 2026 - 2027 考核的仓库分支。
 
 这个仓库用作保存有志于加入 west2-online 的同学的代码 / 笔记, 这里记录了他们学习过程中的点点滴滴。
 
@@ -26,14 +26,14 @@
 
 请访问：[飞书 - 如何提交我的作业](https://west2-online.feishu.cn/wiki/Zvqow0CUxig3iWkWQgBcHp4AnHe)
 
-你需要为你自己的作业创建一个以你 Github 名字命名的文件夹，例如：`work0-1/ShaddockNH3`，并在该文件夹内提交你的作业和笔记。
+你需要为你自己的作业创建一个以你 Github 名字命名的文件夹，例如：`foundation/ShaddockNH3`，并在该文件夹内提交你的作业和笔记。
 
 ## 对整个仓库的整理
 
 对未来的维护者而言，如果你不想拉 1.5 个 G 的史，你可以使用下面这个 clone 命令来修改。
 
 ```bash
-git clone --depth=1 --single-branch -b 2025 https://github.com/west2-online-reserve/collection-ai.git
+git clone --depth=1 --single-branch -b 2026 https://github.com/west2-online-reserve/collection-ai.git
 ```
 
 当然你也可以使用 PR 的方式来修改仓库。
